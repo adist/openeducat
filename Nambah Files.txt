@@ -1,0 +1,3 @@
+Ini file baru lloh.
+
+saat ini dicommit, file di server tidak ada karena 'hg update null' oleh Mercurial. 
